@@ -1,0 +1,33 @@
+.text-green{
+  color: #0caf6e !important;
+  }
+.Text-black{
+  color: #000 !important;
+  }
+
+  .mix-color span {
+    color: #000 !important;
+    }
+
+
+.pb-30 {
+  padding-bottom: 30px;
+  }
+
+.cadre{
+  border: solid #31a54c;
+      border-radius: 30px;
+      padding: 1.2em;
+  }
+
+  .cadre2{
+    border: solid #31a54c 2px;
+    border-radius: 10px;
+    padding-top: 10px;
+    background-color: #ffd4af;
+
+    }
+
+  .bkg-orange{
+        background-color: #ffd4af;
+      }
